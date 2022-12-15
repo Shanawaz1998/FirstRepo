@@ -1,2 +1,3 @@
 Testing my git
 There is one change in the testfile
+This is my latest commit
